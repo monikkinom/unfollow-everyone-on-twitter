@@ -7,7 +7,7 @@ Steps:
 1. Open the browser console. [How to open DevTools on chrome](https://developers.google.com/web/tools/chrome-devtools/open)
 2. Head over to your following page on twitter. It should be of the form, https://twitter.com/username/following
 3. Copy the contents of [unfollow.js](https://github.com/monikkinom/unfollow-everyone-on-twitter/blob/main/unfollow.js) into the console and hit enter. 
-4. Relax as everyone of your follower is unfollowed.
+4. Relax as every one of your follower is unfollowed.
 
 ## What does the script do?
 
